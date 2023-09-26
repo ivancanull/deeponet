@@ -1,8 +1,8 @@
-deepxde
+# deepxde
 matplotlib
 numpy
 pathos
 scipy
 seaborn
-sklearn
+# sklearn
 tensorflow
