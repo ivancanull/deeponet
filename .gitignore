@@ -19,5 +19,5 @@ docs/_build/
 .vscode/
 
 # Data in fractional
-./fractional/*.txt
+/fractional/*.txt
 
